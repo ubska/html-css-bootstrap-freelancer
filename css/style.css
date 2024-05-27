@@ -3,7 +3,7 @@
 }
 
 
-.header-top{
+.ms_colore{
     background-color: #2c3e50;
 }
 
@@ -57,4 +57,8 @@ a .fa-brands{
 
 .card{
     margin: 10px;
+}
+
+.navbar-collapse{
+    flex-grow: 0;
 }
