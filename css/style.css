@@ -28,3 +28,18 @@ img{
 input{
     border: none;
 }
+
+hr{
+    width: 35%;
+    margin: 0 auto;
+}
+
+.footer-top{
+    background-color: #3A546D;
+    color: white;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
+    color: white;
+}
